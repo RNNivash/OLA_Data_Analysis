@@ -20,6 +20,8 @@ Welcome to the OLA Data Analysis project! This project focuses on analyzing real
 
 ## Files Included
 <img width="988" alt="OLA_Schema" src="https://github.com/user-attachments/assets/fe13c236-06ed-4f59-a26a-d44b8808b2bd">
+
+
 - **Schemas and Tables**: Definitions and structures for the database tables.
 - **SQL Questions**: Questions to guide the analysis process.
 - **SQL Queries**: Queries executed for data analysis.
